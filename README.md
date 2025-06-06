@@ -1,7 +1,6 @@
 <div align="center">
 
 # Editor.io
-## https://editor.soumya-jit.tech/
 
 </div>
 
@@ -27,7 +26,6 @@
 
 ## Features
 
-- GFM
 - Supports Html Tags
 - Custom toolbar to make editing easier
 - Live Preview
